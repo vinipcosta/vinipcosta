@@ -4,7 +4,7 @@
 e recentemente me formei no curso de desenvolvimento em Java da Funtec.
 
 ### Currículo
-https://drive.google.com/file/d/1iY-V2sT4lVzGIali96u0zIustAhbHWDf/view
+[Currículo](https://drive.google.com/file/d/1iY-V2sT4lVzGIali96u0zIustAhbHWDf/view)
 
 ### Contato
 tel:(16)98838-3400
