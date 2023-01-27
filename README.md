@@ -2,8 +2,8 @@
 
 
 <div>
- <a href="https://github.com/viniciuspcosta">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=vinipcosta&count_private=true&show_icons=true&theme=dracula"> <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinipcosta&layout=compact&theme=dracula">
+ <a href="https://github.com/vinipcosta">
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=vinipcosta&count_private=true&show_icons=true&include_all_commits=true&theme=dracula"> <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinipcosta&layout=compact&theme=dracula">
  </a>
 </div>
 
