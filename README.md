@@ -1,11 +1,11 @@
 ## Olá, eu sou o Vinícius Costa 👋 ##
 
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api?username=vinipcosta&count_private=true&show_icons=true&theme=dracula"> <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinipcosta&layout=compact&theme=dracula">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinipcosta&count_private=true&show_icons=true&theme=dracula"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinipcosta&layout=compact&theme=dracula">
 
 <div style="display: inline_block"> 
-<img width="48%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<img width="48%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 </div>
 
