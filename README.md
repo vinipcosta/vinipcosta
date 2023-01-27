@@ -1,7 +1,7 @@
 ## Olá, eu sou o Vinícius Costa 👋 ##
 
 
-<img height="100em" src="https://github-readme-stats.vercel.app/api?username=vinipcosta&count_private=true&show_icons=true&theme=dracula"> <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinipcosta&layout=compact&theme=dracula">
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=vinipcosta&count_private=true&show_icons=true&theme=dracula"> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinipcosta&layout=compact&theme=dracula">
 
 <div style="display: inline_block"> 
 <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
